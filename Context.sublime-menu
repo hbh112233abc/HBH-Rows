@@ -1,0 +1,23 @@
+[
+    { "caption": "-", "id": "file" },
+    {
+        "caption": "HBH-Rows",
+        "children": [
+            {
+                "caption":"max_count",
+                "command":"max_count",
+                "args":{}
+            },
+            {
+                "caption":"repeat_lines",
+                "command":"repeat_lines",
+                "args":{}
+            },
+            {
+                "caption":"merge_lines",
+                "command":"merge_lines",
+                "args":{}
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "caption":"频率最多的行",
+        "command":"max_count"
+    },
+    {
+        "caption":"重复的行",
+        "command":"repeat_lines"
+    },
+    {
+        "caption":"合并行",
+        "command":"merge_lines"
+    }
+]

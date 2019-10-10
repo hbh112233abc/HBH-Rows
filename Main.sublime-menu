@@ -1,0 +1,36 @@
+[
+    {
+        "mnemonic": "n",
+        "caption": "Preferences",
+        "id": "preferences",
+        "children": [
+            {
+                "mnemonic": "P",
+                "caption": "Package Settings",
+                "id": "package-settings",
+                "children": [
+                    {
+                        "caption": "HBH-Rows",
+                        "children": [
+                            {
+                                "caption":"max_count",
+                                "command":"max_count",
+                                "args":{}
+                            },
+                            {
+                                "caption":"repeat_lines",
+                                "command":"repeat_lines",
+                                "args":{}
+                            },
+                            {
+                                "caption":"merge_lines",
+                                "command":"merge_lines",
+                                "args":{}
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
